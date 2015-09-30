@@ -13,6 +13,7 @@ color:
   primary: 583A52 #80B3FF
   secondary: AF8F8F #FD6E8A
   secondary-dark: 583A52 #A2122F
+  tertiary: 8B2E24
 
 # Footer settings
 footer:
