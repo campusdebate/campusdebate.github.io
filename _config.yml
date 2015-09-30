@@ -3,7 +3,7 @@ title: CampusDebate
 email: info@campusdebate.com
 url: http://www.campusdebate.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Watch student debates. Vote instantly. See what others think."
+skills: "Watch student debates. Vote moment-by-moment. See what others think."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -24,9 +24,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/campusdebate
   - title: facebook
-    url:
+    url: http://www.facebook.com/campus_debate
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
